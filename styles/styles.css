@@ -1,0 +1,16 @@
+body {
+  font-family: 'Fresca', sans-serif;
+  font-size: 25px;
+}
+
+.a {
+font-family: 'Anton', sans-serif;
+text-align: center;
+}
+
+footer {
+  position: fixed;bottom: 0;left: 0;right: 0;height: 30px;
+  text-align: center;
+
+
+}
